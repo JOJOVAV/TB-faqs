@@ -1,0 +1,15 @@
+# Table of contents
+
+* [Welcome](README.md)
+* [Links](links.md)
+* [How to download](how-to-download.md)
+* [🤓 FAQ](faq/README.md)
+  * [How to report your problem the best way](faq/how-to-report-your-problem-the-best-way.md)
+  * [Basic pc and discord](faq/basic-pc-and-discord.md)
+  * [Antivirus](faq/antivirus.md)
+  * [R6downloader/R6manifest](faq/r6downloader-r6manifest.md)
+  * [The Game R6](faq/the-game-r6.md)
+  * [Liberator](faq/liberator.md)
+  * [Mods/Cheat Engine](faq/mods-cheat-engine.md)
+  * [Multiplayer/RadminVPN](faq/multiplayer-radminvpn.md)
+  * [All DLL errors](faq/all-dll-errors.md)
