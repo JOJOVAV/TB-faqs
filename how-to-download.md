@@ -46,16 +46,6 @@ Make sure to download the correct downloader because steam updates it's api and 
 ## Downloading with Ubi
 
 1. go to the [Modded Rainbow server](https://discord.gg/9KByVQXFck)
-2. go to the download channel and click on r6
-3. install mega desktop application from mega
-4. choose your season you like (folder) on the site
-5. download all the contents of said season&#x20;
-6. extract the game with 7zip or winrar
-
-{% hint style="info" %}
-Make sure to have enough storage. Zip files + Game files = total storage!!
-{% endhint %}
-
-6. Check in codex.ini the game name is filled in other then "changegamename" and also change username from "JVAV" to your own username.
+2. verify your account and wait until you are done downloading
 
 ### That is the little guide go to the faqs on something that you think is missing or getting errors all over.
