@@ -45,7 +45,7 @@ Make sure to download the correct downloader because steam updates it's api and 
 
 ## Downloading with Ubi
 
-1. go to the [Modded Rainbow server](https://discord.gg/9KByVQXFck)
-2. verify your account and wait until you are done downloading
+Not possible legally  
+for other tools etch check [r6downloads.com](https://r6downloads.com/discord)
 
 ### That is the little guide go to the faqs on something that you think is missing or getting errors all over.
