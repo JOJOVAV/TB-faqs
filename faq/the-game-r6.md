@@ -81,5 +81,5 @@ Vulkan and Directx are graphics generation apis, both of them essentially explai
 
 > **These are the fixes for this season**
 
-- Use this Link https://www.nvidia.com/download/find.aspx to **Download the Specific Driver** in the image provided
+- Use this Link [from Nvidia](https://www.nvidia.com/download/find.aspx) to **Download the Specific Driver** in the image provided
 - **Download the zip provided** also to fix the **graphical issues** that people are usually having
