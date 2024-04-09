@@ -9,8 +9,8 @@ description: Here all the questions regardless of the game
 Check the list.\
 &#x20;Plaza\_BO: Y1-Y2\
 Plaza\_new: Y2-Y5S2\
-LumaPlay: Y5S3\
-CPlay: Y5S4-Y6S2\
+LumaPlay: Y5S3 (better use Cplay)\
+CPlay: Y5S3-Y6S2\
 UPCR1: Y6S3\
 UPCR2\_NEW: Y6S4\
 UPCR2\_ORI: Y6S4 - Y7S4\
@@ -21,11 +21,19 @@ Normally it should copy itself automaticly but it can always happen that it does
 So always check if you have any .ini files in your game!
 {% endhint %}
 
-## How to launch said operation
+## How to launch said operation(PlazaCrack)
 
 Y1S0 - Y5S2: RainbowsixGame.exe else Rainbowsix.exe\
-Y5S3: Lumaplay.exe or global tools\
+Y5S3: Lumaplay.exe, RainbowSix.bat or global tools\
 Others: RainbowSix.bat (just open it, to close it press any key)
+
+## How to launch said operation(Crack.zip - Lungu)
+
+Y-S0 - Y8SX: RainbowSix.bat
+
+{% hint style="info" %}
+If there is any Rainbowsix.bat file, pls use that
+{% endhint %}
 
 ## My old Siege version opens the current version or Ubisoft Connect
 
@@ -36,7 +44,7 @@ Go to the correct crack copy the content and paste in game.\
 Folow the next steps 7 and 8 in[#downloading](../how-to-download.md#downloading "mention")
 
 {% hint style="info" %}
-Download plaza.exe in [#guides-en-faqs](https://discord.com/channels/1092820800203141130/1092835326692691978) or in [#first-thing-downloads](https://discord.com/channels/783407263141855284/790306702981070868) (modded rainbow)
+Download Cracks.zip in [#guides-en-faqs](https://discord.com/channels/1092820800203141130/1092835326692691978) or in [#first-thing-downloads](https://discord.com/channels/783407263141855284/1024988042961883136) (modded ~~rainbow~~ LAN Party)
 {% endhint %}
 
 ## My old Siege version is stuck preparing content, how do I fix it?
