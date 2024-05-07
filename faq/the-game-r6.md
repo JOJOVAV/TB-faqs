@@ -4,10 +4,14 @@ description: Here all the questions regardless of the game
 
 # The Game R6
 
+## My game displays Russian language how to switch to English
+
+In case you used the SKU RUS option and want to have other game languages than Russian use the localization.lang file that is located in [#guides-and-faqs](https://discord.com/channels/1092820800203141130/1092835326692691978)
+
 ## What plaza file(crack files) should I use?
 
 Check the list.\
-&#x20;Plaza\_BO: Y1-Y2\
+Plaza\_BO: Y1-Y2\
 Plaza\_new: Y2-Y5S2\
 LumaPlay: Y5S3 (better use Cplay)\
 CPlay: Y5S3-Y6S2\
@@ -71,23 +75,23 @@ Use RadminVPN
 [multiplayer-radminvpn.md](multiplayer-radminvpn.md "mention")
 {% endhint %}
 
-
 ## How to fix video glitches from GPU
+
 Vulkan and Directx are graphics generation apis, both of them essentially explain to the gpu what to render. in the latest build of live they offer users which version they would prefer as there are pros and cons to both, it is compatible with AMD graphics card aswell
 
 > **here are things to keep in mind when considering Vulkan (everyone is gonna be different because everyone has different hardware):**
 
-- slightly lower average fps but resulting into better 1% lows (1% lows are the lag spikes which aren't ping, like game freezes)
-- better for older hardware in comparison to dx11
-- you can still have the latest Nvidia drivers without the game having weird texture bugs where you can't see anything (the gray shit)
+* slightly lower average fps but resulting into better 1% lows (1% lows are the lag spikes which aren't ping, like game freezes)
+* better for older hardware in comparison to dx11
+* you can still have the latest Nvidia drivers without the game having weird texture bugs where you can't see anything (the gray shit)
 
 > **here are things to keep in mind when considering dx11**
 
-- usually higher average fps but resulting in worse 1% lows (game might stutter more, not a definite)
-- not that big of a difference for mid-range/high spec'd pcs performance is very similar
-- you have to use an Nvidia driver version between **530-545** to have the game playable until its fixed in later driver updates
+* usually higher average fps but resulting in worse 1% lows (game might stutter more, not a definite)
+* not that big of a difference for mid-range/high spec'd pcs performance is very similar
+* you have to use an Nvidia driver version between **530-545** to have the game playable until its fixed in later driver updates
 
 > **These are the fixes for this season**
 
-- Use this Link [from Nvidia](https://www.nvidia.com/download/find.aspx) to **Download the Specific Driver** in the image provided
-- **Download the zip provided** also to fix the **graphical issues** that people are usually having
+* Use this Link [from Nvidia](https://www.nvidia.com/download/find.aspx) to **Download the Specific Driver** in the image provided
+* **Download the zip provided** also to fix the **graphical issues** that people are usually having
