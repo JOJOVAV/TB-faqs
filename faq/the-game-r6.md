@@ -4,10 +4,6 @@ description: Here all the questions regardless of the game
 
 # The Game R6
 
-## My game displays Russian language how to switch to English
-
-In case you used the SKU RUS option and want to have other game languages than Russian use the localization.lang file that is located in [#guides-and-faqs](https://discord.com/channels/1092820800203141130/1092835326692691978)
-
 ## What plaza file(crack files) should I use?
 
 Check the list.\
@@ -62,6 +58,10 @@ It didn't complete with the download, [verify your files](r6downloader-r6manifes
 ## Why is my game crashing at the start screen (after pressing button)?
 
 You didn't change your gamename, change it in the Codex.ini files, if you like to change your username it can be any name, check in the ini files (the ones that kind of resembles the name of crack to change it, codex.ini is were you change username too)
+
+## My game displays Russian language how to switch to English
+
+In case you used the SKU RUS option and want to have other game languages than Russian use the localization.lang file that is located in [#guides-and-faqs](https://discord.com/channels/1092820800203141130/1092835326692691978)
 
 ## Why do I get a "User profile loading failed" error?
 
