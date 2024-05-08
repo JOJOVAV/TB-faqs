@@ -89,7 +89,7 @@ Vulkan and Directx are graphics generation apis, both of them essentially explai
 
 * usually higher average fps but resulting in worse 1% lows (game might stutter more, not a definite)
 * not that big of a difference for mid-range/high spec'd pcs performance is very similar
-* you have to use an Nvidia driver version between **530-545** to have the game playable until its fixed in later driver updates
+* you have to use an Nvidia driver version between **530-546** to have the game playable until its fixed in later driver updates
 
 > **These are the fixes for this season**
 
