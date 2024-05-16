@@ -53,7 +53,8 @@ Close the game and restart it, if that doesn't work [verify your files](r6downlo
 
 ## Why is my .exe/ launch application missing?
 
-It didn't complete with the download, [verify your files](r6downloader-r6manifest.md#how-do-i-verify-my-game-files-and-what-is-the-meaning-of-verify)
+It didn't complete with the download, [verify your files](r6downloader-r6manifest.md#how-do-i-verify-my-game-files-and-what-is-the-meaning-of-verify) or if you are one of the other country's [#what-is-sku-rus-and-what-country-has-it](r6downloader-r6manifest.md#what-is-sku-rus-and-what-country-has-it "mention"), then search the method in the help channel\
+keyword is russian and tag is solution.
 
 ## Why is my game crashing at the start screen (after pressing button)?
 
