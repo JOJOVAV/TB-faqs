@@ -12,11 +12,11 @@ A "cheat table" is a file that Cheat Engine is able to read. It ends in `.ct` an
 
 ## Where do I download Cheat Engine?
 
-{% embed url="https://cheatengine.org" %}
+
+
+{% embed url="https://github.com/cheat-engine/cheat-engine/releases/latest" %}
 
 ## How to download Cheat Engine
-
-{% embed url="https://www.youtube.com/watch?v=k7Be7pwC5xI" %}
 
 Watch first the video
 
@@ -28,7 +28,7 @@ Backup in case yt-video removes it
 
 ## What cheat tables are public?
 
-The only tables that are public are in the [#tool-releases](https://discord.com/channels/1092820800203141130/1092832304516305039) channel or from unknowncheats.me
+The only tables that are public are in the [#tool-releases](https://discord.com/channels/1092820800203141130/1092832304516305039) channel or from [unknowncheats.me](https://www.unknowncheats.me/forum/index.php) (there are also "unlock all" in there)
 
 ## How do I set up a cheat table?
 

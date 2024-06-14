@@ -45,7 +45,9 @@ Make sure to download the correct downloader because steam updates it's api and 
 
 ## Downloading with Ubi
 
-Not possible legally  
-for other tools etch check [r6downloads.com](https://r6downloads.com/discord)
+Not possible legally\
+for other tools/downloads etc check [r6downloads.com](https://r6downloads.com/discord) and check modded rainbow/lan party
+
+there you find instructions on how todo it.
 
 ### That is the little guide go to the faqs on something that you think is missing or getting errors all over.

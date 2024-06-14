@@ -60,6 +60,10 @@ keyword is russian and tag is solution.
 
 You didn't change your gamename, change it in the Codex.ini files, if you like to change your username it can be any name, check in the ini files (the ones that kind of resembles the name of crack to change it, codex.ini is were you change username too)
 
+## How to change gamename and username
+
+check codex.ini for both (plazacrack) or check codex.ini for gamename and cplay.ini (lungu crack aka crack.zip)
+
 ## My game displays Russian language how to switch to English
 
 In case you used the SKU RUS option and want to have other game languages than Russian use the localization.lang file that is located in [#guides-and-faqs](https://discord.com/channels/1092820800203141130/1092835326692691978)
@@ -74,6 +78,12 @@ Use RadminVPN
 
 {% hint style="info" %}
 [multiplayer-radminvpn.md](multiplayer-radminvpn.md "mention")
+{% endhint %}
+
+## How to unlock all
+
+{% hint style="info" %}
+[#how-to-unlock-all](liberator.md#how-to-unlock-all "mention")
 {% endhint %}
 
 ## How to fix video glitches from GPU
@@ -95,4 +105,3 @@ Vulkan and Directx are graphics generation apis, both of them essentially explai
 > **These are the fixes for this season**
 
 * Use this Link [from Nvidia](https://www.nvidia.com/download/find.aspx) to **Download the Specific Driver** in the image provided
-* **Download the zip provided** also to fix the **graphical issues** that people are usually having

@@ -18,7 +18,11 @@ No
 
 ## The Liberator crashes my game when it opens, how do I fix this?
 
-[Verify your files](r6downloader-r6manifest.md#how-do-i-verify-my-game-files-and-what-is-the-meaning-of-verify) and try the Liberator again
+use the solutions in order( if it doesn't work, make help post)
+
+1. open liberator first and then the game
+2. &#x20;[Verify your files](r6downloader-r6manifest.md#how-do-i-verify-my-game-files-and-what-is-the-meaning-of-verify) and try the Liberator again
+3. if you have "tweaking" software or any software that boost your pc get rid of it
 
 ## What versions of Siege does the Liberator support?
 

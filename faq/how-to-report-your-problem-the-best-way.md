@@ -8,6 +8,8 @@ description: >-
 
 ## Template report
 
+make sure when making a post, you choose the correct tags
+
 #### 1. Title
 
 In here we want a good title that gives us the general idea of said problem\
@@ -28,6 +30,8 @@ Don't use your phone to make photo/screenshot on the pc
 {% hint style="info" %}
 Use the windowskey + shift + s to make a screenshot
 {% endhint %}
+
+#### 4. Ping helper in your post
 
 ## Examples of BAD reports
 
