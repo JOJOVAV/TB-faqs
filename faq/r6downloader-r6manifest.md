@@ -38,6 +38,10 @@ Select the folder with your downloader snip it aka ctrl+x and then paste it to y
 
 No
 
+## Dotnet is not recognized as a command
+
+Make sure you have [dotnet](https://aka.ms/dotnet/6.0/dotnet-sdk-win-x64.exe) installed from microsoft if that is done, restart pc
+
 ## Why is my download stuck at X percent?
 
 The final files are larger and take longer to download and check your internet usage with taskmanager
