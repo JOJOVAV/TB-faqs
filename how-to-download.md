@@ -45,9 +45,14 @@ Make sure to download the correct downloader because steam updates it's api and 
 
 ## Downloading with Ubi
 
-Not possible legally\
-for other tools/downloads etc check [r6downloads.com](https://r6downloads.com/discord) and check modded rainbow/lan party
-
-there you find instructions on how todo it.
+1. Go to the #tools channel and download megabastard. Extract where you want to.
+2. Next go to #downloads channel and click on Rainbow Six Siege.
+3. After that choose a season you like and click on the all links.txt, copy all the links.
+4. Go back to the megabastard tool you downloaded and press on the button edit > settings.\
+ Change the download folder to the folder you excluded in windows antivirus. (you can do this earlier too)
+5. Click on file > new downloads and paste all the links and then you press next to download everything.
+6. After you are done downloading, Right click the main zip file and extract here.
+7. Check if there is a crack inside your game if not, download the crack and paste it in the game.
+8. Open the ini file and check if the gamename has a uniquename and have another username (could be still JVAV).
 
 ### That is the little guide go to the faqs on something that you think is missing or getting errors all over.
