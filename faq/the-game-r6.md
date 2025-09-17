@@ -4,6 +4,19 @@ description: Here all the questions regardless of the game
 
 # The Game R6
 
+## How to download the cracks
+
+Go to the faqs channel and press the download button then put it into the resource folder of the downloader.\
+After that is done you can extract it.
+
+## \[Recommended] How to launch said operation(Crack.zip - Lungu)
+
+Y-S0 - Y8SX: RainbowSix.bat
+
+{% hint style="info" %}
+If there is any Rainbowsix.bat file, pls use that
+{% endhint %}
+
 ## What plaza file(crack files) should I use?
 
 Check the list.\
@@ -26,14 +39,6 @@ So always check if you have any .ini files in your game!
 Y1S0 - Y5S2: RainbowsixGame.exe else Rainbowsix.exe\
 Y5S3: Lumaplay.exe, RainbowSix.bat or global tools\
 Others: RainbowSix.bat (just open it, to close it press any key)
-
-## How to launch said operation(Crack.zip - Lungu)
-
-Y-S0 - Y8SX: RainbowSix.bat
-
-{% hint style="info" %}
-If there is any Rainbowsix.bat file, pls use that
-{% endhint %}
 
 ## My old Siege version opens the current version or Ubisoft Connect
 

@@ -10,7 +10,7 @@ description: >-
 
 ### MSVCRXXX.dll (insert X with your number)
 
-go to [this page](https://github.com/abbodi1406/vcredist/releases/tag/v0.56.0) and download the zip file (not the source code)\
+go to [this page](https://github.com/abbodi1406/vcredist/releases/latest) and download the zip file (not the source code)\
 Extract it and run it after it's done start game
 
 ### uplay\_rx\_loader64.dll (insert x with your number)
